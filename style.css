@@ -1,0 +1,31 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header{
+      width: 100%;
+      background-color: #676648;
+      display: flex;
+      justify-content: space-around;
+}
+
+.img-superior {
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    border-radius: 25px;
+}
+
+.superior {
+    display: flex;
+    align-items: center;
+    padding: 50px;
+}
+
+.superior-texto {
+    margin-left: -100px;
+    padding: 35px;
+
+}
