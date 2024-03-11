@@ -8,7 +8,8 @@
     --texto-fundo:rgba(58,55,94,0.3);
 }
 body {
-    background-color: var(--cor-de-fundo);
+    background: rgb(40,0,17);
+    background: radial-gradient(circle, rgba(40,0,17,1) 0%, rgba(24,97,117,1) 48%, rgba(21,113,134,1) 56%, rgba(0,0,0,1) 71%, rgba(149,149,149,1) 100%);
     color: var(--branco);
     font-family: 'chakraPetch',sans-serif;
 
